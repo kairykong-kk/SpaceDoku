@@ -364,7 +364,7 @@ class GameController(
         const val MENU_Z = -2.0f // start page pushed back 20 cm
         const val CARD_Z = -1.65f
         const val BAR_Z = -1.45f   // pushed 5 cm further
-        const val BAR_Y = 1.1f     // raised to sit just below the cube
+        const val BAR_Y = 0.67f    // lowered so the number bar clears the cube's lower face
         const val GUIDE_X = -0.95f // guide panel: left of the cube
         const val GUIDE_Z = -1.9f
         const val BAR_TILT = -1.0236f // ~-58.6°: tilt around X (radians) so the bar faces the head; raised 30° total to shift the panel up
